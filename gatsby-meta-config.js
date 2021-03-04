@@ -1,12 +1,12 @@
 module.exports = {
-  title: `Bee starter`,
+  title: `Doosung`,
   description: `Blog posted about ...`,
-  author: `[Your Name]`,
+  author: `[Doosung]`,
   introduction: `I explain with words and code. I explain with words and code. I explain with words and code.`,
-  siteUrl: `https://gatsby-starter-bee.netlify.com`, // Your blog site url
+  siteUrl: `https://doosung.netlify.app/`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
-    github: ``, // Your GitHub account
+    github: `https://github.com/nds95`, // Your GitHub account
     medium: ``, // Your Medium account
     facebook: ``, // Your Facebook account
     linkedin: ``, // Your LinkedIn account
