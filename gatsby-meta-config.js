@@ -1,7 +1,7 @@
 module.exports = {
-  title: `Doosung`,
+  title: `Si Eun`,
   description: `Blog posted about ...`,
-  author: `[Doosung]`,
+  author: `[Si Eun]`,
   introduction: `I explain with words and code. I explain with words and code. I explain with words and code.`,
   siteUrl: `https://doosung.netlify.app/`, // Your blog site url
   social: {
